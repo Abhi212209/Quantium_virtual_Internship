@@ -5,8 +5,8 @@ Data preparation and customer analytics,
 Experimentation and uplift testing, and
 Analytics and commercial application.
 # Dependencies
-Language: Python
-Packages: pandas, matplotlib, numpy,seaborn
+- Language: Python
+- Packages: pandas, matplotlib, numpy,seaborn
 
 # Project Overview and Task Insights
 This virtual experience program involves analysing chip purchases at supermarkets. The aim of this project was to evaluate different customers' purchasing behaviours and the performance of trial stores with a new layout to provide insights of customer preferences to the client and a recommendation of whether the trial has been successful.
